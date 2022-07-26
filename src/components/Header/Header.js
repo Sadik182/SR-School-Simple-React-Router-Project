@@ -9,7 +9,7 @@ const Header = () => {
             <Navbar bg="dark" variant="dark">
                
            <Container>
-               <Navbar.Brand >SR</Navbar.Brand>
+               <Navbar.Brand >SR School</Navbar.Brand>
            <Nav className = "ms-auto p-3 fw-bold">
                 <Stack direction="horizontal" gap={5}>
                 <NavLink  className="text-decoration-none text-white ps-2" to="/home">Home</NavLink>

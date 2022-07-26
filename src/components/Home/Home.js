@@ -19,7 +19,7 @@ const Home = () => {
     
                 <div className="display-info">
                     <h1 className="h1 fw-bold text-primary">Learn From The Expert</h1>
-                    <p className="p">This is The Place Where You Can Learn <br /> All The Things You Need From The Expert.</p>
+                    <p className="p fw-bold fs-4">This is The Place Where You Can Learn <br /> All The Things You Need From The Expert.</p>
                     <Button variant="primary my-4">ADDMISSION NOW</Button>
                 </div>
                 <div className="display-img">
