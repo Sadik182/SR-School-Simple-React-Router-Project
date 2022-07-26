@@ -6,7 +6,7 @@ const ShowCourse = (props) => {
     // Destructing 
     const {CourseName, image, CourseFee} = props.course;
     return (
-        <div >
+        <div>
             <img src={image} alt="" />
             <h2>{CourseName}</h2>
             <p>Course Fee: {CourseFee}</p>
